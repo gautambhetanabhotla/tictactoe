@@ -1,0 +1,5 @@
+test.c
+build/
+client
+server
+.vscode/
